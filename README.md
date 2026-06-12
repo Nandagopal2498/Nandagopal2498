@@ -21,11 +21,7 @@ My journey is driven by curiosity, continuous learning, and a commitment to writ
 
 
 
-<hr>
-
 <h2 align="center">【 IDENTITY BLOCK 】</h2>
-
-<hr>
 
 
 
