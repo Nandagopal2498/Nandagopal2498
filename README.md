@@ -81,6 +81,108 @@ const nandaGopal = {
 };
 ```
 
+<hr>
+
+<h2 align="center">【 TECH STACK 】</h2>
+
+### ✦ Languages ✦
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python">
 </p>
+
+### ✦ Frontend ✦
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-111111?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss">
+</p>
+
+### ✦ Backend & Runtime ✦
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js">
+  <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express">
+</p>
+
+### ✦ Databases ✦
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb">
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql">
+</p>
+
+### ✦ Tools & Environment ✦
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode">
+</p>
+
+<hr>
+
+<hr>
+
+<h2 align="center">【 PHILOSOPHY 】</h2>
+
+<p align="center">
+  <i>
+  "The best engineers aren't those who know the most — they're the ones who stay curious the longest.
+  Understand deeply, build intentionally, and ship consistently.
+  Your code is a reflection of how you think. Make it worth reading."
+  </i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FULL_STACK_BY_CHOICE-2D0A53?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BUILD_IT_RIGHT-2D0A53?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ALWAYS_SHIPPING-2D0A53?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STAY_CURIOUS-2D0A53?style=for-the-badge" />
+</p>
+
+<hr>
+
+
+<h2 align="center">【 LET'S CONNECT 】</h2>
+
+<p align="center">
+I'm always open to <b>collaborating on interesting projects</b>, connecting with fellow developers, and exploring new opportunities.
+</p>
+
+<p align="center">
+<b>Reach out — I respond fast. 👇</b>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Nandagopal2498" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-2D0A53?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/nanda-gopal-dudaka-631b57322/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-2D0A53?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:nandagopaldudaka@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-2D0A53?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://wa.me/919390349899" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-2D0A53?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+<i>
+Open to full-stack roles • internships • open-source • collaborations
+</i>
+</p>
+
+<hr>
