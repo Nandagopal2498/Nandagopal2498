@@ -77,7 +77,6 @@ const nandaGopal = {
 };
 ```
 
-<hr>
 
 <h2 align="center">【 TECH STACK 】</h2>
 
@@ -121,9 +120,7 @@ const nandaGopal = {
   <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode">
 </p>
 
-<hr>
 
-<hr>
 
 <h2 align="center">【 PHILOSOPHY 】</h2>
 
@@ -142,7 +139,6 @@ const nandaGopal = {
   <img src="https://img.shields.io/badge/STAY_CURIOUS-2D0A53?style=for-the-badge" />
 </p>
 
-<hr>
 
 
 <h2 align="center">【 LET'S CONNECT 】</h2>
