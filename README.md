@@ -18,3 +18,56 @@ My journey is driven by curiosity, continuous learning, and a commitment to writ
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB • MySQL • Git & GitHub
 
 > Code. Learn. Build. Repeat.
+
+
+
+## 【 IDENTITY BLOCK 】
+
+```javascript
+const nandaGopal = {
+
+  name      : "Nanda Gopal",
+  role      : "Full Stack Developer",
+  location  : "India 🇮🇳 (IST, UTC+5:30)",
+
+  contact : {
+    email    : "yourmail@gmail.com",
+    linkedin : "your-linkedin-username",
+    github   : "NandaGopal"
+  },
+
+  stack : {
+    languages : ["JavaScript", "C++", "Python"],
+    frontend  : ["React.js", "HTML5", "CSS3", "Tailwind CSS"],
+    backend   : ["Node.js", "Express.js"],
+    databases : ["MongoDB", "MySQL"],
+    tools     : ["Git", "GitHub", "VS Code"]
+  },
+
+  currentlyLearning : [
+    "Data Structures & Algorithms",
+    "System Design",
+    "Backend Architecture"
+  ],
+
+  building : [
+    "Portfolio Website",
+    "Full Stack Projects"
+  ],
+
+  interests : [
+    "Full Stack Development",
+    "System Design",
+    "Open Source",
+    "Problem Solving"
+  ],
+
+  openTo : [
+    "Internships",
+    "Collaborations",
+    "Open Source"
+  ],
+
+  motto : "Code. Learn. Build. Repeat. 🚀"
+};
+```
