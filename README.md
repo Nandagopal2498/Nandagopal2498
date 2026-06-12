@@ -177,4 +177,16 @@ Open to full-stack roles • internships • open-source • collaborations
 </i>
 </p>
 
+
+<p align="center">
+⚡ <b>NANDAGOPAL2498</b> • Full Stack Developer • India 🇮🇳 • 2025
+</p>
+
+<p align="center">
+<i>Designed with purpose • Built in public • Always improving</i>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
+</p>
 <hr>
