@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dudaka%20Nanda%20Gopal&textBg=false" />
+</p>
+
 ## 👋 WHO AM I
 
 I'm a Full-Stack Developer passionate about turning ideas into scalable and impactful digital products.
