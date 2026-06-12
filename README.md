@@ -2,6 +2,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dudaka%20Nanda%20Gopal&textBg=false" />
 </p>
 
+<h3 align="center">
+  DSA | Full Stack Development | System Design
+</h3>
+
+
 ## 👋 WHO AM I
 
 I'm a Full-Stack Developer passionate about turning ideas into scalable and impactful digital products.
