@@ -31,14 +31,14 @@ My journey is driven by curiosity, continuous learning, and a commitment to writ
 ```javascript
 const nandaGopal = {
 
-  name      : "Nanda Gopal",
+  name      : "Nanda Gopal Dudaka",
   role      : "Full Stack Developer",
   location  : "India 🇮🇳 (IST, UTC+5:30)",
 
   contact : {
-    email    : "yourmail@gmail.com",
-    linkedin : "your-linkedin-username",
-    github   : "NandaGopal"
+    email    : "nandagopaldudaka@gmail.com",
+    linkedin : "nanda-gopal-dudaka-631b57322",
+    github   : "Nandagopal2498"
   },
 
   stack : {
