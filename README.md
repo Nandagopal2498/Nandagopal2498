@@ -21,6 +21,15 @@ My journey is driven by curiosity, continuous learning, and a commitment to writ
 
 
 
+<hr>
+
+<h2 align="center">【 IDENTITY BLOCK 】</h2>
+
+<hr>
+
+
+
+
 ## 【 IDENTITY BLOCK 】
 
 ```javascript
@@ -71,3 +80,7 @@ const nandaGopal = {
   motto : "Code. Learn. Build. Repeat. 🚀"
 };
 ```
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
